@@ -99,7 +99,6 @@ function CitiesProvider({ children }) {
       });
 
       const data = await res.json();
-      // console.log(data);
 
       dispatch({ type: "city/created", payload: data });
     } catch {

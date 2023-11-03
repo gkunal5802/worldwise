@@ -1,8 +1,13 @@
-# React + Vite
+# The Worldwise Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Enables you to mark the location around the world with some notes over it.
+Built with React, redux, context api.
 
-Currently, two official plugins are available:
+## HOW TO RUN THIS APPLICATION
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+run scripts from package.json file
+
+1. npm run dev
+2. npm run server
+
+LOGIN PAGE: is just a prototype with fixed username as jack@example.com and password being qwerty.
